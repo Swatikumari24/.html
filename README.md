@@ -6,7 +6,6 @@
     <title>Resume</title>
 </head>
 <body>
-    <title>Resume</title>
     <h1>Name :-</h1>
     <p>Swati Kumari</p>
     <p> My name is swati kumari, i am currently pursuing BCA from Jamshedpur Womens University</p>
